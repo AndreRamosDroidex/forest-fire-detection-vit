@@ -78,7 +78,7 @@ python scripts/infer_on_video.py --video_path data/mydata/aplao/video.mp4
 
 ### Resultado
 ![Ejemplo de detección de fuego A](assets/GITFIG1.PNG)
-![Ejemplo de detección de fuego B](assets/GITFIG1.PNG)
+![Ejemplo de detección de fuego B](assets/GITFIG2.PNG)
 
 
 ### Cálculo de Curva ROC y AUC
